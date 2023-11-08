@@ -69,6 +69,5 @@ Referred to various class activity exercises, Microsoft Support Documentation, S
 # Files submitted including this README File
 1. Three individual screenshots of the results (for year 2018, 2019, and 2020).
 2. VBA script file - `Multiple_year_stock_data_Final.vb`.
-3. Excel File with VBA Macro code under the `Module` for it - Multiple_year_stock_data_Final.xlsm.
-
+   
    
